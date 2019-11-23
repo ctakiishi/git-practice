@@ -1,3 +1,4 @@
 Name: Cynthia Akemi Takiishi
 Age: 31
 Favorite Color: Blue
+Hello!
